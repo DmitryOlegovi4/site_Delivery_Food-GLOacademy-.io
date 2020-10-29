@@ -217,7 +217,16 @@ button {
     align-items: center;
     margin-bottom: 44px;
 }
-
+.btn-back{
+    background-color: transparent;
+    margin-right: 10px;
+    color: #302c34;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 32px;
+    border-radius: 4px;
+}
 .section-title {
     font-style: normal;
     font-weight: bold;
@@ -262,8 +271,6 @@ button {
     display: flex;
     flex-direction: column;
 }
-
-
 
 .restaurants .card-text {
     min-height: auto;
